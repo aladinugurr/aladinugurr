@@ -1,5 +1,5 @@
 
-# Hi there, I'm Alaaddin Uğur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = '35px' >
+# Hi there, I'm Alaaddin Uğur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:35px;"  >
 
 
 ## Junior Front End Developer
